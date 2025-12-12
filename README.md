@@ -3,15 +3,10 @@
 Aplikasi Portal Berita dengan REST API menggunakan Laravel Passport dan tampilan menarik menggunakan Flutter.
 
 ## 📥 Download Project (ZIP)
-Karena keterbatasan ukuran file di 
-GitHub, file project lengkap (Backend + 
-Frontend + APK) dapat diunduh melalui 
-link berikut:
+Karena keterbatasan ukuran file di GitHub, file project lengkap (Backend + Frontend + 
+APK) dapat diunduh melalui link berikut:
 
-**[🔗 DOWNLOAD PROJECT LENGKAP (Google 
-Drive)](https://drive.google.com/file/d/
-1r-FW5atalpxNwsFMtbHASJ_rgUTg7yk0/view?
-usp=sharing)**
+https://drive.google.com/file/d/1r-FW5atalpxNwsFMtbHASJ_rgUTg7yk0/view?usp=sharing
 
 > File ZIP berisi:
 > 1. Source Code Laravel (Backend)

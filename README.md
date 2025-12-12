@@ -158,8 +158,4 @@ Flutter App Features:
 - Google Fonts
 - Intl (Date formatting)
 
-## 📝 License
 
-MIT License
-# 7.5-Tugas-Praktik
-# 7.5-Tugas-Praktik
